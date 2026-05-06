@@ -50,3 +50,52 @@ git checkout -b develop/comentario-inicio
 
 1. Primero vemo lo que tenmos asignado de tarea y le contestamos al jefe:
    ![alt text](image-9.png) 
+
+2. Antes de crear rama add-pagos, creamos rama features a partir de main.:
+
+![alt text](image-10.png)
+
+3. Crear rama add-pagos a partir de features:
+
+![alt text](image-11.png)
+
+### Paso 3: TU-SECRETARIO crea el archivo BizumPaymentService.java y pull request.
+
+1. Creamos el archivo dentro de la siguiente ruta **/src/main/java/es/storeapp/business/services/**
+
+![alt text](image-12.png)
+
+2. Solicitamos el  Pull request.
+
+![alt text](image-13.png)
+
+### Paso 4: TU lo aceptas e incorporas y cierras el feat.
+
+1. Lo aceptamos y le damos a completado la tarea:
+
+
+## TAREA 3: Hotfix
+
+1. creamo la incidencia: 
+
+![alt text](<Captura de pantalla 2026-05-06 201504.png>)
+
+### Paso 2: TU-SECRETARIO soluciona la incidencia y abre Pull request.
+
+1. Creaos y actualizamos las ramas:
+
+![alt text](image-14.png)
+
+2. Arreglamos la app:
+
+![alt text](image-15.png)
+
+3. Hacemos el pull request y no los acepta y ya hemos solucionado el error: 
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+
+
+
