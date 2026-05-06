@@ -49,4 +49,4 @@ git checkout -b develop/comentario-inicio
 ### Paso 2. TU-SECRETARIO recibe asignación y trabaja en ella:
 
 1. Primero vemo lo que tenmos asignado de tarea y le contestamos al jefe:
-   ![alt text](image-9.png)
+   ![alt text](image-9.png) 
