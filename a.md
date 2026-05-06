@@ -35,3 +35,18 @@ git checkout -b develop/comentario-inicio
 
 ## TAREA 2: FEATURE DEV
 
+1. Primero hacemos la tarea para lo que tiene que hacer el secretario:
+   
+![alt text](image-6.png)
+
+* Vemos que se ha creado:
+
+![alt text](image-7.png)
+
+2. Vemos que se ah creado la tera en el board :
+![alt text](image-8.png)
+
+### Paso 2. TU-SECRETARIO recibe asignación y trabaja en ella:
+
+1. Primero vemo lo que tenmos asignado de tarea y le contestamos al jefe:
+   ![alt text](image-9.png)
